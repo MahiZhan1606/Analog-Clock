@@ -141,19 +141,16 @@ body {
     width: 10px;
     height: 30%;
     background-color: var(--theme-color);
-    --rotation: 90;
 }
 
 .min {
+    background-color: var(--theme-color);
     width: 8px;
     height: 40%;
-    background-color: var(--theme-color);
-    --rotation: 0;
 }
 
 .sec {
     width: 5px;
     height: 42%;
     background-color: var(--theme-color);
-    --rotation: 60;
 }
